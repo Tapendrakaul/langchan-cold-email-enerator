@@ -28,19 +28,19 @@ Before setting up the project, ensure you have the following installed:
 1. **Clone the repository**
    Open a terminal and run the following command to clone the project repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Tapendrakaul/langchan-cold-email-enerator.git
    ```
    Replace `your-username` and `your-repo-name` with the actual GitHub details of the project.
 
 2. **Navigate to the project directory**
    ```bash
-   cd your-repo-name
+   cd langchan-cold-email-enerator
    ```
 
 3. **Set up a virtual environment** (optional but recommended)
    Create a virtual environment to avoid conflicts with other Python projects on your machine:
    ```bash
-   python -m venv env
+   python3.11 -m venv env
    ```
    Activate the virtual environment:
    - On Windows:
