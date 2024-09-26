@@ -61,7 +61,7 @@ Before setting up the project, ensure you have the following installed:
 5. **Run the Streamlit front-end**
    In a new terminal (with the virtual environment still activated), start the Streamlit application:
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 6. **Using the Project**
